@@ -1,1 +1,0 @@
-This is a Data structure course project which I did in my 2nd year of college. I created a plaform to represent an ecommerce website. The website will be open for both sellers and buyers. Some sellers have been given prime membership to sell their items in the website. The program handles the buyer and seller requests using multithreading.
